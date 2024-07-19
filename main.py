@@ -1,7 +1,7 @@
 import yfinance as yf
 import requests
 import pandas as pd
-
+#Creator Sahil Lala
 # Function to get Nifty index data using yfinance at 5-minute intervals
 def get_nifty_index_data_5min():
     # Ticker symbol for Nifty 50
