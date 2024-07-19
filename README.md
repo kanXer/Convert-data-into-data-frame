@@ -6,4 +6,4 @@
 
 # Last Step : Modify Expiry date in Code line 57 (expiry_date = "18-Jul-2024") Put Last Expiry date to get Data
 
-# note : NSE does not provide nore then one expiry data so you cal only get last expiry's 7 days data.
+# note : NSE does not provide nore then one expiry data so you can only get last expiry's 7 days data.
